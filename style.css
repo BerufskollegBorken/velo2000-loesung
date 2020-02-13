@@ -7,26 +7,3 @@
 * p {
     color : #ff0000;
 }
-
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    border:1px dotted red;
-    display:flex;
-    flex-direction: row;    
-    flex-wrap: wrap-reverse;
-    justify-content: space-around;
-    height: 200px;
-    align-items: center;
-}
-
-li {
-    border:1px solid black;
-    margin: 0.5em; 
-    padding:0.5em;
-}
-
-.flex1 {
-    order:1;
-}
